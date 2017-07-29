@@ -1,0 +1,41 @@
+Running out of power
+
+The underground research facility (cause why else would it be there?) has been cut off from the surface and supplies are limited.
+Your job is to venture into the underground with the new Piloted Excavation Drill to mine resources needed to keep the facilities power
+plant online. Fortunately, the power plan is a versatile new model being prototyped at the facility that can process many different fuels.
+Your PED has a miniturized version of this reactor, but it's not nearly as efficient so only use it in emergencies when the battery is
+too drained to get back to base.
+
+Why not simply drill to the surface? The PED doesn't have enough power to do so, and the shaft would be unstable. We need a real construction
+effort to get back to the surface.
+
+Win condition: (Jam) None. Your play will be scored by how long you lasted. Maybe even with resources collected
+ (Full Game) Find enough materials to get back to the surface
+Lose condition: Base runs out of power and PED battery runs out and no fuel on board.
+
+Mechanics:
+Top down, drill into blocks to clear and harvest any valuable materials they have. Traveling through previously drilled areas
+takes minimal power. Using the drill takes more power, and the harder a block is the longer it takes to drill.
+
+PED:
+The is a slow but constant drain on power for the PED unless it's docked with the base. While docked with the base, it doesn't actually
+take extra power from the base.
+The PED can use materials mined for fuel, but it's less efficient than taking them back to base. While fuel is burning in the PED, it charges
+the battery and allows actions without draining the battery until the fuel is depleted.
+
+Base:
+dock at the base to recharge the battery and offload fuel
+
+
+
+
+Controls: Tank Controls
+
+
+
+
+TODOs
+    - Implement basic character movement
+    - Top down camera
+    - Terrain blocks
+    - Base
