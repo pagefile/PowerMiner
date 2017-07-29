@@ -1,6 +1,4 @@
-# Power Miner
-
-## Ludum Dare 39 Jam
+# Power Miner - Ludum Dare 39 Jam
 
 I know, it's a very original and innovative name.
 
